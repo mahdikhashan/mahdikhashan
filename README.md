@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a **Front-end Software Engineer** focused on React based projects. For **part-time** and **project** collaboration write to mohi[at]nanoman.space.
+
 <!--
 **mahdikhashan/mahdikhashan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
