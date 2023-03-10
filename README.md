@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a **Front-end Software Engineer** focused on React based projects.
+I'm a **Front-end Software Engineer**.
 
 📫 For **part-time** and **project (hourly-based)** collaboration write to mohi[at]nanoman.space.
 
