@@ -2,12 +2,12 @@
 
 I'm a **Front-end Software Engineer**.
 
-📫 For **part-time** and **project (hourly-based)** collaboration write to mohi[at]nanoman.space.
-
 <!--
 **mahdikhashan/mahdikhashan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+📫 For **part-time** and **project (hourly-based)** collaboration write to mohi[at]nanoman.space.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
