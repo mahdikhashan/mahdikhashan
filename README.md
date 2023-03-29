@@ -1,10 +1,6 @@
-### Hi 👋
+**Hi** 👋 , I'm Mahdi, a **Web Developer** from 🇮🇷
 
-I'm Mahdi, a **Web Developer** from 🇮🇷
-
-![Profile views](https://gpvc.arturio.dev/mahdikhashan)
-
-I'm passionate about front-end development, software architecture and automated testing. I've also created some libraries, CLI tools and templates to make my daily life a little easier. Some of them are published under MIT, so feel free to use them, too.
+I'm passionate about **front-end development**, software architecture and automated testing. I've also created some libraries, CLI tools and templates to make my daily life a little easier. Some of them are published under MIT, so feel free to use them, too.
 
 #### Project Dashboard
 
@@ -15,6 +11,8 @@ I'm passionate about front-end development, software architecture and automated 
 | [99-minutes-emails](https://github.com/mahdikhashan/99-minutes-emails)  | Temporary Email Service With Restoration Capability | Side Project | [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/) |
 | [vercel-express-template](https://github.com/mahdikhashan/vercel-express-template) | Deploy Express Servers on Vercel | Github Template | [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/) |
 | [vercel-express-proxy](https://github.com/mahdikhashan/vercel-express-proxy) | Setup proxy servers on Vercel for CORS | Github Template | [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/) |
+
+![Profile views](https://gpvc.arturio.dev/mahdikhashan)
 
 <!--
 **mahdikhashan/mahdikhashan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
