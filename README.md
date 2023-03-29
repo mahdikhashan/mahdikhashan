@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm Mahdi, a Web Developer from 🇮🇷. 
+I'm Mahdi, a **Web Developer** from 🇮🇷
 
 ![Profile views](https://gpvc.arturio.dev/mahdikhashan)
 
