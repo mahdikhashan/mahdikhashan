@@ -1,4 +1,6 @@
-**Hi** 👋 , I'm Mahdi, a **Web Developer** from 🇮🇷
+**Hi** 👋
+
+I'm Mahdi, a **Web Developer** from 🇮🇷
 
 I'm passionate about **front-end development**, software architecture and automated testing. I've also created some libraries, CLI tools and templates to make my daily life a little easier. Some of them are published under MIT, so feel free to use them, too.
 
