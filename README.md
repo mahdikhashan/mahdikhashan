@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahdi Khashan</h1>
 <h3 align="center">Web Developer</h3>
 
-I'm passionate about **front-end development**, software architecture and automated testing. I've also created some libraries, CLI tools and templates to make my daily life a little easier. Some of them are published under MIT, so feel free to use them, too.
+I'm passionate about **QA Automation testing**, **front-end development** and software architecture. I've also created some libraries, CLI tools and templates to make my daily life a little easier. Some of them are published under MIT, so feel free to use them, too.
 
 #### Languages and Tools
 
