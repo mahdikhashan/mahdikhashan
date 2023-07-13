@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahdi Khashan</h1>
 
-I am passionate about web development, particularly front-end. I have also created several libraries, CLI tools, and templates to simplify my daily life. Some of them are published under the MIT license, so feel free to use them as well
+I am passionate about **web development**, particularly **front-end**. I have also created several libraries, CLI tools, and templates to simplify my daily life. Some of them are published under the MIT license, so feel free to use them as well.
 
 #### Projects
 
