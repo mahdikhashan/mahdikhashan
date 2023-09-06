@@ -1,7 +1,4 @@
-<h1 align="left">Mahdi Khashan 😁</h1>
-
-### Frontend Developer
-🇦🇹 Linz, Austria
+<h1 align="left">Mahdi Khashan</h1>
 
 ### 👨‍💻️ My tech stack
 
