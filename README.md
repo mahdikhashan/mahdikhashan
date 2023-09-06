@@ -1,15 +1,36 @@
-<h1 align="left">Mahdi Khashan</h1>
+<h1 align="left">Mahdi Khashan 😁</h1>
 
-I am passionate about **web development**, particularly **front-end**. I have also created several libraries, CLI tools, and templates to simplify my daily life. Some of them are published under the MIT license, so feel free to use them as well.
+### Frontend Developer
+🇦🇹 Linz, Austria
 
-#### Projects
+### 👨‍💻️ My tech stack
 
-| Project        | Description | Type | Badge           |
+[<img src="https://raw.githubusercontent.com/miladd3/miladd3/main/assets/css.svg" width="20px"  alt="CSS"/>](https://github.com/mahdikhashan)
+[<img src="https://raw.githubusercontent.com/miladd3/miladd3/main/assets/html.svg" width="20px"  alt="HTML"/>](https://github.com/mahdikhashan)
+[<img src="https://raw.githubusercontent.com/miladd3/miladd3/main/assets/javascript.svg" width="20px"  alt="Javascript"/>](https://github.com/mahdikhashan)
+[<img src="https://raw.githubusercontent.com/miladd3/miladd3/main/assets/typescript.svg" width="20" height="20px" alt="Typescript" />](https://github.com/mahdikhashan)
+[<img src="https://raw.githubusercontent.com/miladd3/miladd3/main/assets/nodejs.svg" width="20px" height="20px" alt="NodeJs" />](https://github.com/mahdikhashan)
+[<img src="https://raw.githubusercontent.com/miladd3/miladd3/main/assets/react.svg" width="30" height="20px" alt="React" />](https://github.com/mahdikhashan)
+[<img src="https://raw.githubusercontent.com/miladd3/miladd3/main/assets/vue.svg" width="20" height="20px" alt="Vue" />](https://github.com/mahdikhashan)
+
+I am passionate about web development, particularly front-end. I have also created several libraries, CLI tools, and templates to simplify my daily life. Some of them are published under the MIT license, so feel free to use them as well.
+
+<details>
+  <summary>Projects</summary>
+
+#### 
+
+  | Project        | Description | Type | Badge           |
 | -------------- |:-----------:|:----:|:---------------:|
 | [99-minutes-emails](https://github.com/mahdikhashan/99-minutes-emails)  | Temporary Email Service With Restoration Capability | Side Project | [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/) |
 | [simple-money-management](https://simple-money-management.vercel.app/) | Manage your expenditure easily | Side Project | [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/) |
 
-#### Contributions
+</details>
+
+<details>
+  <summary>Contributions</summary>
+
+#### 
 
 | Project        | Description | Type | Link            |
 | -------------- |:-----------:|:----:|:---------------:|
@@ -20,7 +41,12 @@ I am passionate about **web development**, particularly **front-end**. I have al
 | [react-link-parser](https://github.com/amir2mi/react-link-parser) | React Link Parser | NPM Package | [Commits](https://github.com/amir2mi/react-link-parser/commits?author=mahdikhashan) | 
 | [mdn](https://github.com/mdn/.github/commits?author=mahdikhashan) | MDN Web Docs | Documentation | [Commits]() | 
 
-#### Packages
+</details>
+
+<details>
+  <summary>Packages</summary>
+
+####
 
 | Project        | Description | Type | Badge           |
 | -------------- |:-----------:|:----:|:---------------:|
@@ -29,10 +55,20 @@ I am passionate about **web development**, particularly **front-end**. I have al
 | [chakra-ui-timeline](https://github.com/mahdikhashan/chakra-ui-timeline) | Chakra-UI Timeline Component | NPM Package | ![npm (tag)](https://img.shields.io/npm/v/@mahdikhashan/chakra-timeline/latest?style=plastic) ![npm](https://img.shields.io/npm/dy/@mahdikhashan/chakra-timeline) ![npm peer dependency version](https://img.shields.io/npm/dependency-version/@mahdikhashan/chakra-timeline/peer/vue) ![NPM](https://img.shields.io/npm/l/@mahdikhashan/vue3-click-outside)
 | [veemoji](https://github.com/mahdikhashan/veemoji) | veemoji is a dead simple emoji 🚀 as a component for vue 2 | NPM Package | ![npm (tag)](https://img.shields.io/npm/v/veemoji/latest?style=plastic) ![npm](https://img.shields.io/npm/dy/veemoji) ![npm peer dependency version](https://img.shields.io/npm/dependency-version/veemoji/peer/vue) ![NPM](https://img.shields.io/npm/l/veemoji)
 
-#### Tools and Templates
+</details>
+
+<details>
+  <summary>Tools and Templates</summary>
+
+####
 
 | Project        | Description | Type | Badge           |
 | -------------- |:-----------:|:----:|:---------------:|
 | [vercel-express-proxy](https://github.com/mahdikhashan/vercel-express-proxy) | Setup proxy servers on Vercel for CORS | Github Template | [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/) |
 | [ts-base-project](https://github.com/mahdikhashan/ts-base-project) | TypeScript Base Project Template for Web Development | Template | [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
+</details>
+
+[Twitter](https://twitter.com/__nanoman__) | [Linkedin](https://www.linkedin.com/in/khashan/) | [website](https://nanoman.space/)
+
+[Send me a mail](mailto:mahdikhashan1@gmail.com)
