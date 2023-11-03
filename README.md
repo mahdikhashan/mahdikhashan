@@ -1,14 +1,4 @@
-<h1 align="left">Mahdi Khashan</h1>
-
-### 👨‍💻️ My tech stack
-
-[<img src="https://raw.githubusercontent.com/miladd3/miladd3/main/assets/css.svg" width="20px"  alt="CSS"/>](https://github.com/mahdikhashan)
-[<img src="https://raw.githubusercontent.com/miladd3/miladd3/main/assets/html.svg" width="20px"  alt="HTML"/>](https://github.com/mahdikhashan)
-[<img src="https://raw.githubusercontent.com/miladd3/miladd3/main/assets/javascript.svg" width="20px"  alt="Javascript"/>](https://github.com/mahdikhashan)
-[<img src="https://raw.githubusercontent.com/miladd3/miladd3/main/assets/typescript.svg" width="20" height="20px" alt="Typescript" />](https://github.com/mahdikhashan)
-[<img src="https://raw.githubusercontent.com/miladd3/miladd3/main/assets/nodejs.svg" width="20px" height="20px" alt="NodeJs" />](https://github.com/mahdikhashan)
-[<img src="https://raw.githubusercontent.com/miladd3/miladd3/main/assets/react.svg" width="30" height="20px" alt="React" />](https://github.com/mahdikhashan)
-[<img src="https://raw.githubusercontent.com/miladd3/miladd3/main/assets/vue.svg" width="20" height="20px" alt="Vue" />](https://github.com/mahdikhashan)
+<h1 align="left">Hey, It's Mo Khashan</h1>
 
 I am passionate about web development, particularly front-end. I have also created several libraries, CLI tools, and templates to simplify my daily life. Some of them are published under the MIT license, so feel free to use them as well.
 
