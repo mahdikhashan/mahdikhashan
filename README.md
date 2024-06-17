@@ -1,1 +1,1 @@
-<img alt="michael scott dancing" src="https://github.com/mahdikhashan/mahdikhashan/blob/master/michael.gif?raw=true" width="100%">
+<img alt="michael scott dancing" src="https://github.com/mahdikhashan/mahdikhashan/blob/master/michael.gif" width="100%">
